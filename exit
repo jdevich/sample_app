@@ -1,0 +1,47 @@
+commit 547c5c11542f9bba26502b6550317738a31c927b
+Author: jdevich <devich.john@yahoo.com>
+Date:   Tue May 8 17:24:50 2012 -0500
+
+    Make a basic User model (including secure passwords)
+
+commit 8e7a7aee90a40b93c85f30ebc50d6a0443a2498e
+Author: jdevich <devich.john@yahoo.com>
+Date:   Mon May 7 12:37:10 2012 -0500
+
+    Finish layout and routes
+
+commit dc9135c3a44e9f29463a03cc45a801295e45752f
+Author: jdevich <devich.john@yahoo.com>
+Date:   Fri May 4 13:47:12 2012 -0500
+
+    Add a title helper
+
+commit 69734af3437ab33315d7f58e5074978dc09ae572
+Author: jdevich <devich.john@yahoo.com>
+Date:   Fri May 4 13:02:15 2012 -0500
+
+    Finish static pages
+
+commit 25daf0ea76d9709f52669e668f29abedaf939607
+Author: jdevich <devich.john@yahoo.com>
+Date:   Fri May 4 12:39:30 2012 -0500
+
+    Add about page
+
+commit 096e9806aa08ae4a414185b0e96b1971720ab234
+Author: jdevich <devich.john@yahoo.com>
+Date:   Fri May 4 12:07:50 2012 -0500
+
+    Add a StaticPages controller
+
+commit bb7c90118a3c0c86fe1e522cfc6f7a8bfda77b07
+Author: jdevich <devich.john@yahoo.com>
+Date:   Fri May 4 11:45:41 2012 -0500
+
+    Improve the README
+
+commit d43fe4577d29842b6147e99040f94be41bf1f8dd
+Author: jdevich <devich.john@yahoo.com>
+Date:   Fri May 4 11:42:45 2012 -0500
+
+    Initial commit
